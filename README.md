@@ -5,8 +5,6 @@ API. Lazy loading and Code splitting are being used for optimising the app. User
 cart. Redux Toolkit library is used for managing the state at the top level hierarchy. Components are styled using Tailwind
 CSS. Shimmer UI is implemented so as to increase user experience. Jest library is used fortesting.*
 
-- *Live Link : https://yumbite.netlify.app/*
-
 - *Tech Stack : ReactJS, Tailwind CSS, Redux Toolkit, Jest, React Toastify, Swiggy Live API, React-Router-DOM*
 
   # *Setting up the project*

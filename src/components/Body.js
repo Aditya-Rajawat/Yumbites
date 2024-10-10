@@ -20,7 +20,7 @@ const Body = () => {
   const fetchData = async () => {
     try {
       const data = await fetch(
-        "https://www.swiggy.com/dapi/restaurants/list/v5?lat=27.4924134&lng=77.673673&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+        "https://backend.yumbite-backend.workers.dev/main"
       );
       const json = await data.json();
       setListofRestaurants(
@@ -212,3 +212,4 @@ const Body = () => {
 };
 
 export default Body;
+

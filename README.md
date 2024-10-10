@@ -1,4 +1,4 @@
-# *YumBites*
+# *YumBite*
 
 - *A Food restaurant app which offers wide variety of food and desserts to customers. The data is fetched using Swiggy live
 API. Lazy loading and Code splitting are being used for optimising the app. Users can add and remove items from
